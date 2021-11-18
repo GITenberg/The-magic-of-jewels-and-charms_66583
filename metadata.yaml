@@ -1,0 +1,27 @@
+_repo: The-magic-of-jewels-and-charms_66583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kunz, George Frederick
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '6451'
+    url: http://www.gutenberg.org/2009/agents/6451
+    wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Kunz
+description: ''
+gutenberg_issued: '2021-10-21'
+identifiers:
+  gutenberg: '66583'
+  lccn: '15024206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Charms -- Folklore'
+- !lcsh 'Gems -- Folklore'
+- !lcsh 'Amulets -- Folklore'
+- GITenberg
+title: The magic of jewels and charms
+url: http://www.gutenberg.org/ebooks/66583
