@@ -1,5 +1,8 @@
 _repo: The-magic-of-jewels-and-charms_66583
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66583-h/images/cover.jpg
 creator:
   author:
     agent_name: Kunz, George Frederick
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6451
     wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Kunz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66583#The-magic-of-jewels-and-charms
 gutenberg_issued: '2021-10-21'
 identifiers:
   gutenberg: '66583'
